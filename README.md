@@ -50,8 +50,3 @@
   </div>
   <div class="modal-backdrop js-touch-events"></div>
 </div>
-
-    </div>
-  </div>
-
-  </div>
