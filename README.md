@@ -15,7 +15,7 @@
 <p>In order to run the application you have some options:</p>
 <ol>
 <li>
-<p>Open it <a href="https://stearruda.github.io/restaurant-reviews-app-stage-1/" rel="nofollow">here</a></p>
+<p>Open it <a href="https://ksharma67.github.io/restaurant_reviews_app/" rel="nofollow">here</a></p>
 </li>
 <li>
 <p>Run it localy</p>
@@ -24,7 +24,7 @@
 <ul>
 <li>
 <p>Download as .zip file or clone this project:</p>
-<pre><code>$ git clone https://github.com/stearruda/restaurant-reviews-app-stage-1.git
+<pre><code>$ git clone https://github.com/ksharma67/restaurant_reviews_app.git
 </code></pre>
 </li>
 <li>
